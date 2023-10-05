@@ -1,4 +1,4 @@
-### Este arquivo ".ipynb" apresenta as seguintes habilidades:
+### O arquivo ".ipynb" apresenta as seguintes habilidades:
 * Conexão com a API do BigQuery no Google Colab;
 * Consulta SQL que, inclusive, foi realizada diretamente no notebook (.ipynb)
 * Leitura de arquivo `.xlsx` com a biblioteca Pandas utilizando parâmetros personalizados;
