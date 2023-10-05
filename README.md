@@ -9,7 +9,7 @@ Este repositório tem como objetivo demonstrar habilidades com SQL e Python.
 
 É importante ressaltar que o método `.merge` do Pandas nos permite fazer um **JOIN** entre DataFrames.
 > **NOTA:** Os dados utilizados nesta consulta foram retirados de um conjunto de dados público disponibilizado pela Base dos Dados.
-
+---
 
 **2) O arquivo `sql_subconsulta_case.md` apresenta utilização da linguagem SQL fazendo uso de diversas habilidades, tais como:**
 * Uso de subconsultas;
