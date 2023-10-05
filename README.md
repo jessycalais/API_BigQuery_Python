@@ -1,7 +1,7 @@
 ## Objetivo:
 Este repositório tem como objetivo demonstrar habilidades com SQL e Python.
 
-### 1) O arquivo `projeto_joins.ipynb` apresenta o uso das seguintes ferramentas:
+**1) O arquivo `join_sql_pandas.ipynb` apresenta o uso das seguintes ferramentas:**
 * Conexão com a API do BigQuery no Google Colab;
 * Consulta SQL realizada diretamente no notebook (.ipynb);
 * Leitura de arquivo `.xlsx` com a biblioteca Pandas utilizando parâmetros personalizados;
@@ -11,7 +11,7 @@ Este repositório tem como objetivo demonstrar habilidades com SQL e Python.
 > **NOTA:** Os dados utilizados nesta consulta foram retirados de um conjunto de dados público disponibilizado pela Base dos Dados.
 
 
-### 2) O arquivo `sql.md` apresenta utilização da linguagem SQL fazendo uso de diversas habilidades, tais como:
+**2) O arquivo `sql_subconsulta_case.md` apresenta utilização da linguagem SQL fazendo uso de diversas habilidades, tais como:**
 * Uso de subconsultas;
 * Uso da cláusula CASE;
 * Uso de INNER JOIN.
