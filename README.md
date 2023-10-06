@@ -1,6 +1,13 @@
 ## Objetivo:
-Este repositório tem como objetivo demonstrar habilidades com SQL e Python.
+Este repositório tem como objetivo demonstrar minhas habilidades técnicas de extração e tratamento de dados com SQL e Python.
 
+## Ferramentas utilizadas:
+* BigQuery;
+* Google Colab;
+* Python;
+* SQL.
+
+## Conteúdo dos arquivos do repositório:
 **1) O arquivo `join_sql_pandas.ipynb` apresenta o uso das seguintes ferramentas:**
 * Conexão com a API do BigQuery no Google Colab;
 * Consulta SQL realizada diretamente no notebook (.ipynb);
@@ -9,6 +16,7 @@ Este repositório tem como objetivo demonstrar habilidades com SQL e Python.
 
 É importante ressaltar que o método `.merge` do Pandas nos permite fazer um **JOIN** entre DataFrames.
 > **NOTA:** Os dados utilizados nesta consulta foram retirados de um conjunto de dados público disponibilizado pela Base dos Dados.
+
 ---
 
 **2) O arquivo `sql_subconsulta_case.md` apresenta utilização da linguagem SQL fazendo uso de diversas habilidades, tais como:**
