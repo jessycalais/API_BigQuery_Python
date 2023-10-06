@@ -24,6 +24,6 @@ Este repositório tem como objetivo demonstrar minhas habilidades técnicas de e
 * Uso da cláusula CASE;
 * Uso de INNER JOIN.
 
-> Caso queira utilizar estes mesmos dados, utilize essas tabelas disponibilizadas no BigQuery:
+> **NOTA:** Caso queira utilizar estes mesmos dados, utilize essas tabelas disponibilizadas no BigQuery:
 > * `bigquery-public-data.austin_bikeshare.bikeshare_trips`;
 > * `bigquery-public-data.austin_bikeshare.bikeshare_stations`.
