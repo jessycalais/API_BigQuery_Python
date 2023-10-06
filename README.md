@@ -1,13 +1,13 @@
-## :dart: Objetivo:
+### :dart: Objetivo:
 Este repositório tem como objetivo demonstrar minhas habilidades técnicas de extração e tratamento de dados com SQL e Python.
 
-## :hammer: Ferramentas utilizadas:
+### :hammer: Ferramentas utilizadas:
 * BigQuery;
 * Google Colab;
 * Python;
 * SQL.
 
-## :books: Conteúdo dos arquivos do repositório:
+### :books: Conteúdo dos arquivos do repositório:
 **1) O arquivo `join_sql_pandas.ipynb` apresenta o uso das seguintes ferramentas:**
 * Conexão com a API do BigQuery no Google Colab;
 * Consulta SQL realizada diretamente no notebook (.ipynb);
