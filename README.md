@@ -8,7 +8,7 @@ Este repositório tem como objetivo demonstrar minhas habilidades técnicas de e
 * SQL.
 
 ### :books: Conteúdo dos arquivos do repositório:
-**1) O arquivo `join_sql_pandas.ipynb` apresenta o uso das seguintes ferramentas:**
+**1) O arquivo **`join_sql_pandas.ipynb`** apresenta o uso das seguintes ferramentas:**
 * Conexão com a API do BigQuery no Google Colab;
 * Consulta SQL realizada diretamente no notebook (.ipynb);
 * Leitura de arquivo `.xlsx` com a biblioteca Pandas utilizando parâmetros personalizados;
@@ -18,12 +18,3 @@ Este repositório tem como objetivo demonstrar minhas habilidades técnicas de e
 > **NOTA:** Os dados utilizados nesta consulta foram retirados de um conjunto de dados público disponibilizado pela Base dos Dados.
 
 ---
-
-**2) O arquivo `sql_subconsulta_case.md` apresenta utilização da linguagem SQL fazendo uso de diversas habilidades, tais como:**
-* Uso de subconsultas;
-* Uso da cláusula CASE;
-* Uso de INNER JOIN.
-
-> **NOTA:** Caso queira utilizar estes mesmos dados, utilize essas tabelas disponibilizadas no BigQuery:
-> * `bigquery-public-data.austin_bikeshare.bikeshare_trips`;
-> * `bigquery-public-data.austin_bikeshare.bikeshare_stations`.
