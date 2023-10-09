@@ -1,8 +1,9 @@
 ### :dart: Objetivo:
-Este repositório tem como objetivo demonstrar minhas habilidades técnicas de extração e tratamento de dados com SQL e Python.
+Este repositório tem como objetivo demonstrar minhas habilidades técnicas de **tratamento de dados** com Python.  
+Para visualizar minhas habilidades com SQL, [clique aqui](https://github.com/jessycalais/SQL_BigQuery.git).
 
 ### :hammer: Ferramentas utilizadas:
-* BigQuery;
+* API do BigQuery;
 * Google Colab;
 * Python;
 * SQL.
