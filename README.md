@@ -8,7 +8,7 @@ Para visualizar minhas habilidades com SQL, [clique aqui](https://github.com/jes
 * Python;
 * SQL.
 
-### :books: Conteúdo do arquivo do repositório:
+### :books: Conteúdo dos arquivos do repositório:
 **1) O arquivo **`join_sql_pandas.ipynb`** apresenta o uso das seguintes ferramentas:**
 * Conexão com a API do BigQuery no Google Colab;
 * Consulta SQL realizada diretamente no notebook (.ipynb);
