@@ -32,3 +32,6 @@ Para visualizar minhas habilidades com SQL, [clique aqui](https://github.com/jes
 * Utilizar o método `.shift()` da biblioteca Pandas para realizar análise semelhante a obtida com a função de janela LAG() no SQL.
   
 > **NOTA:** Os dados utilizados nesta consulta foram retirados de um conjunto de dados público disponibilizado no Big Query.
+
+**Obs.:** Caso a tabela formatada não fique visível na visualização do arquivo ".ipynb" aqui no GitHub, veja abaixo o resultado:
+<img src="tabela_formatada.png" alt="drawing" width="700"/>
